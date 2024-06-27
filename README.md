@@ -7,3 +7,5 @@ add to spotify playlist
 
 not on spotify -> add to YT playlist\
 mute -> song not counted
+
+plugin?
